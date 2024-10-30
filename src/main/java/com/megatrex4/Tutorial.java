@@ -1,5 +1,6 @@
 package com.megatrex4;
 
+import com.megatrex4.blocks.BlockRegistry;
 import com.megatrex4.items.ItemGroupRegistry;
 import com.megatrex4.items.ItemRegistry;
 import net.fabricmc.api.ModInitializer;
@@ -19,6 +20,7 @@ public class Tutorial implements ModInitializer {
 	public void onInitialize() {
 		ItemRegistry.ItemRegistry();
 		ItemGroupRegistry.ItemGroupRegistry();
+		BlockRegistry.BlockRegistry();
 
 		LOGGER.info("Hello Fabric world!");
 	}

@@ -2,5 +2,9 @@
   "item.tutorial.sapphire": "Сапфір",
   "item.tutorial.fabric": "Тканина",
 
+  "block.tutorial.sapphire_block": "Сапфіровий блок",
+  "block.tutorial.sapphire_ore": "Сапфірова руда",
+  "block.tutorial.maple_log": "Кленова колода",
+
   "tutorial.itemgroup.gem": "Самоцвіти"
 }

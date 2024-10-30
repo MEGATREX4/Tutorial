@@ -1,6 +1,7 @@
 package com.megatrex4.items;
 
 import com.megatrex4.Tutorial;
+import com.megatrex4.blocks.BlockRegistry;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
@@ -20,6 +21,10 @@ public class ItemGroupRegistry {
 
                         entries.add(Items.DIAMOND);
                         entries.add(Items.GOLD_BLOCK);
+
+                        entries.add(BlockRegistry.SAPPHIRE_BLOCK);
+                        entries.add(BlockRegistry.SAPPHIRE_ORE);
+                        entries.add(BlockRegistry.MAPLE_LOG);
 
                     })).build());
 

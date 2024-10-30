@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": { "model": "tutorial:block/maple_log", "x": 90, "y": 90 },
+    "axis=y": { "model": "tutorial:block/maple_log" },
+    "axis=z": { "model": "tutorial:block/maple_log", "x": 90 }
+  }
+}

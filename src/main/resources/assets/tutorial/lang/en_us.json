@@ -2,5 +2,9 @@
   "item.tutorial.sapphire": "Sapphire",
   "item.tutorial.fabric": "Fabric",
 
+  "block.tutorial.sapphire_block": "Sapphire Block",
+  "block.tutorial.sapphire_ore": "Sapphire Ore",
+  "block.tutorial.maple_log": "Maple Log",
+
   "tutorial.itemgroup.gem": "Gems"
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "tutorial:block/maple_log_top",
+    "side": "tutorial:block/maple_log"
+  }
+}
