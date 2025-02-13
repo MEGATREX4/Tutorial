@@ -26,6 +26,10 @@ public class ItemGroupRegistry {
                         entries.add(BlockRegistry.SAPPHIRE_ORE);
                         entries.add(BlockRegistry.MAPLE_LOG);
 
+                        entries.add(ItemRegistry.RECORDING_CRYSTAL);
+                        entries.add(ItemRegistry.EXPLORER_LANTERN);
+                        entries.add(ItemRegistry.HEALING_STONE);
+
                     })).build());
 
 

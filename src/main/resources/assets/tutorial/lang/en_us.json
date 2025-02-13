@@ -2,9 +2,15 @@
   "item.tutorial.sapphire": "Sapphire",
   "item.tutorial.fabric": "Fabric",
 
+  "item.tutorial.recording_crystal": "Recording Crystal",
+  "item.tutorial.explorer_lantern": "Explorer Lantern",
+  "item.tutorial.healing_stone": "Healing Stone",
+
   "block.tutorial.sapphire_block": "Sapphire Block",
   "block.tutorial.sapphire_ore": "Sapphire Ore",
   "block.tutorial.maple_log": "Maple Log",
 
-  "tutorial.itemgroup.gem": "Gems"
+  "tutorial.itemgroup.gem": "Gems",
+  "item.tutorial.recording_crystal.uses": "Uses: %s",
+  "item.tutorial.explorer_lantern.uses": "Light placed"
 }
